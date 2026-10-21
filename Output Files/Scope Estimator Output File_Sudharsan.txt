@@ -1,0 +1,32 @@
+## Scope Estimate Report
+---
+
+**User Story:** As an Admin, I want to manage users in bulk, so that I can efficiently handle user accounts without having to update them individually.
+
+**Size:** L
+
+**Rationale:** The complexity of bulk user management suggests significant engineering work, as it involves data handling, user permissions, and possible interface design.
+
+**Risk flag:** None
+
+---
+
+**User Story:** As an End User, I want a simplified view, so that I can easily navigate and access the functionalities I need without any confusion.
+
+**Size:** M
+
+**Rationale:** Creating a simplified view requires design considerations and user experience enhancements, leading to moderate complexity.
+
+**Risk flag:** None
+
+---
+
+**User Story:** As an Auditor, I want read-only access with full history, so that I can review all necessary information without the risk of modifying any data.
+
+**Size:** M
+
+**Rationale:** Implementing read-only access with a full history feature involves data security and integrity, which adds moderate complexity.
+
+**Risk flag:** None
+
+---
